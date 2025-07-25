@@ -156,7 +156,7 @@ const SobreMi = () => {
               <FaEnvelope className="text-purple-600" /> Contacto
             </h3>
             <p className="text-white font-semibold mb-2">
-              castromateo0204@gmail.com
+              castromateo2004@gmail.com
             </p>
             <a
               href="mailto:castromateo0204@gmail.com"
